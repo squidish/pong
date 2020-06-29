@@ -9,7 +9,8 @@ https://www.youtube.com/watch?v=VyrAVNoEf0g
 ## Requires 
 
 Pygame
-sklearn
+
+Sklearn
 
 ## To run
 
@@ -17,9 +18,9 @@ sklearn
    
    Play full manual 
    
-2)  python pong_full.py --record
+2) python pong_full.py --record
  
-   Play manually record play in file game.csv
+    Play manually record play in file game.csv
    
 3) python pong_full.py   --ai
 
